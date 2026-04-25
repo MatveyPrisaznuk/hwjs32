@@ -1,0 +1,30 @@
+img {
+  width: 100%;
+}
+
+.list {
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.item {
+  border-radius: 8px;
+  width: 600px;
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  color: #f0f8ff;
+  background-color: #00f;
+  border: none;
+  border-radius: 8px;
+  margin: 50px auto 0;
+  padding: 10px 20px;
+  display: block;
+}
+/*# sourceMappingURL=hwjs32.2cdaf7bc.css.map */
